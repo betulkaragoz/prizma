@@ -6,8 +6,7 @@
 int main()
 {
 	
-	double g,a,h;
-	double aci,v;
+	double g,a,h,aci,v;
 	
 	printf("Kac gen veriyim ablama ");	scanf("%lf",&g);
 	printf("Kenara kac verem abla ");	scanf("%lf",&a);
