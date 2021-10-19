@@ -8,9 +8,12 @@ int main()
 	
 	double g,a,h,aci,v;
 	
-	printf("Kac gen veriyim ablama ");	scanf("%lf",&g);
-	printf("Kenara kac verem abla ");	scanf("%lf",&a);
-	printf("Yukseklige kac koyam abla ");	scanf("%lf",&h);
+	printf("Kac gen veriyim ablama ");	
+	scanf("%lf",&g);
+	printf("Kenara kac verem abla ");	
+	scanf("%lf",&a);
+	printf("Yukseklige kac koyam abla ");	
+	scanf("%lf",&h);
 	
 	aci = (180-360/g)/2;
 	aci *= PI/180;
